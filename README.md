@@ -2,6 +2,10 @@
 
 Presentation-only copy of the original Shoppong Shoppro viewer UI.
 
+## Live demo
+
+https://shoppong-shoppro-demo.vercel.app/
+
 ## What is copied
 
 The demo reuses the original React view structure and styling for:
